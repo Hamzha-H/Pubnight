@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904901574092",
+    "project_id": "pubnight-dbddb",
+    "storage_bucket": "pubnight-dbddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904901574092:android:ef668379b2c0aaf55bf169",
+        "android_client_info": {
+          "package_name": "com.example.pubnightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904901574092-f0927etupb3ure9jfirm6q9nlh5so4e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pubnightapp",
+            "certificate_hash": "b3cc9c5ce1b8c556575f0789fb430b94e597be42"
+          }
+        },
+        {
+          "client_id": "904901574092-hq6ap3d8d5rta15k8i5iulu6jmpl40qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRefxSH76BhAFKjth0t8bIMKAOCKeH3Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904901574092-hq6ap3d8d5rta15k8i5iulu6jmpl40qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
